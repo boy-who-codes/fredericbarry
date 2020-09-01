@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is **Frederic Barry** and I'm a certified responsive web designer from Canada.
+
+I'm currently commited to `#100DaysOfCode` and learning `#JavaScript` through the @freeCodeCamp curriculum.
+
+You can follow my journey on [Twitter](https://twitter.com/fredericbarry).
+
 <!--
 **fredericbarry/fredericbarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
