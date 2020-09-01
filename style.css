@@ -3,34 +3,57 @@ html {
 }
 
 body {
+    color: #bbdefc;
     margin: 0;
     padding: 0;
 }
 
-a {
+section {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    font-size: 22px;
+    height: 100vh;
+    line-height: 32px;
+    justify-content: center;
+    padding: 0 20px;
+    text-align: center;
+}
+
+h1 {
+    background-color: #474440;
+    border-radius: 4px;
+    font-size: 32px;
+    padding: 10px 20px;
+}
+
+a,
+a:visited {
+    color: #b29c84;
     text-decoration: none;
 }
 
+a:active,
+a:hover {
+    color: #bbdefc;
+}
+
 code {
-    background-color: #eeeeee;
+    background-color: #b29c84;
     border-radius: 4px;
     font-family: 'Courier New', Courier, monospace;
     padding: 2px;
 }
 
 #welcome {
-    align-items: center;
     background-attachment: fixed;
+    background-color: #8baad2;
     background-image: url("images/background.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    color: #ffffff;
-    display: flex;
-    flex-direction: column;
-    font-size: 30px;
-    height: 100vh;
-    justify-content: center;
-    padding: 0 20px;
-    text-align: center;
+}
+
+#about {
+    background-color: #474440;
 }
