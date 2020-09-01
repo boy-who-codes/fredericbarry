@@ -49,9 +49,9 @@ code {
     background-attachment: fixed;
     background-color: #8baad2;
     background-image: url("images/background.jpg");
-    background-position: center center;
+    background-position: top center;
     background-repeat: no-repeat;
-    background-size: 100% 100%;
+    background-size: cover;
 }
 
 #about {
