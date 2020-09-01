@@ -2,7 +2,7 @@
 
 My name is **Frederic Barry** and I'm a certified responsive web designer from Canada.
 
-I'm currently commited to `#100DaysOfCode` and learning `#JavaScript` through the @freeCodeCamp curriculum.
+I'm currently commited to `#100DaysOfCode` and learning `#JavaScript` through the [@freeCodeCamp](https://github.com/freeCodeCamp) curriculum.
 
 You can follow my journey on [Twitter](https://twitter.com/fredericbarry).
 
