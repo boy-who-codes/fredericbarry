@@ -23,8 +23,13 @@ section {
 h1 {
     background-color: #474440;
     border-radius: 4px;
+    color: #bbdefc;
     font-size: 32px;
     padding: 10px 20px;
+}
+
+h2 {
+    font-size: 32px;
 }
 
 a,
@@ -56,4 +61,38 @@ code {
 
 #about {
     background-color: #474440;
+}
+
+#contact {
+    background-color: #bbdefc;
+    color: #474440;
+}
+
+#email {
+    margin: 100px 0;
+}
+
+#email a {
+    background-color: #b29c84;
+    border: 1px solid #474440;
+    border-radius: 4px;
+    color: #474440;
+    padding: 10px 20px;
+}
+
+#email a:active,
+#email a:hover {
+    border: 1px solid #474440;
+    color: #bbdefc;
+}
+
+#social {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    width: 280px;
+}
+
+#social img {
+    width: 75px;
 }
