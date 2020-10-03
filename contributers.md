@@ -1,2 +1,4 @@
 | Name       		| Username           | 
-| Rahul Sinha		| boy-who-codes      |      
+|---------------|--------------------|
+| Rahul Sinha		| boy-who-codes      |  
+|---------------|--------------------|
